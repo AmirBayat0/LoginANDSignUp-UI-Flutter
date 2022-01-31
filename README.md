@@ -1,6 +1,8 @@
 # Login & Sign Up UI using Flutter
 ## Preview
-https://user-images.githubusercontent.com/91388754/151865687-534d34ba-af30-4c35-b86a-6db2327feea4.mp4
+![YouCut_20220131_234122222](https://user-images.githubusercontent.com/91388754/151868296-7ae32348-172d-4f4b-8372-91482ba392f8.gif)
+
+
 # ⚠️ Essential Packages 
 * font_awesome_flutter: ^9.2.0
 # UI idea
