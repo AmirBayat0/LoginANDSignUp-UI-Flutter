@@ -1,5 +1,5 @@
 # Login & Sign Up UI using Flutter
-## ScreenShot
+## Preview
 
 # ⚠️ Essential Packages 
 * font_awesome_flutter: ^9.2.0
